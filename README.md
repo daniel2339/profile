@@ -1,0 +1,16 @@
+# Profile
+### 遇到問題:
+  - 不會把某div設到置中
+    - 解決辦法是**要記得設置高度`height`否則`align-items`不會生效
+  - 對css的偽類不太熟悉
+  - 要對css中的transition多練習
+### 新學到的:
+  - 透過`Grid`來排版
+  - 透過`:hover`和`::after`等等來製造更多效果
+    - `after`**一定要**搭配`content`才可以使用
+  - 用`transition`來製造動畫效果
+  - 透過`mailto`來讓使用者點擊按鈕後可以直接寄信到某信箱
+  - `target=_blank`可以讓使用者點某連結時，是用新視窗的方式開啟
+### 進階功能:
+  - 把projects中的內容可以更好的排版
+  - 把畫面做得更漂亮
